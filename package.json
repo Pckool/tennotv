@@ -48,7 +48,7 @@
     "serve-favicon": "~2.5.0",
     "sinon": "6.0.1",
     "snekfetch": "^4.0.4",
-    "supertest": "^3.0.0",
+    "supertest": "^3.3.0",
     "winston": "^3.0.0",
     "winston-raven-sentry": "^2.0.0"
   },
