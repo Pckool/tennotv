@@ -61,7 +61,7 @@
     "mocha": "^5.1.1",
     "vinyl-source-stream": "^2.0.0",
     "travis-deploy-once": "^5.0.0",
-    "semantic-release": "^15.5.0"
+    "semantic-release": "^15.13.0"
   },
   "engines": {
     "node": ">=8.9.0",
